@@ -77,7 +77,13 @@ if (porc1 >= 80 || porc2 >= 80) {
 <img width="405" height="474" alt="Captura de pantalla 2026-10-25 195824" src="https://github.com/user-attachments/assets/5bcf8671-9b4e-4621-aa78-4977ab0a6063" />
 
 
-[📥 Download MIT App Inventor source code (.aia)](AQUI_PONES_EL_LINK_AL_ARCHIVO_AIA)
+[📥 Download MIT App Inventor source code (.aia)](https://github.com/ematute905-ux/HidroAlerta-Smart-Micro-Dam/raw/refs/heads/main/Microrepresa%20(1).aia)
 
 **▶ Project demonstration video**
-[ARRASTRA_AQUI_EL_VIDEO_DE_9MB]
+
+
+https://github.com/user-attachments/assets/763755a8-48fc-4fd5-8082-e871b51e37eb
+
+
+
+
